@@ -132,7 +132,7 @@ La API necesita, como mínimo, configurar:
 Crear una base, por ejemplo:
 
 ```sql
-CREATE DATABASE ticketdbv2;
+CREATE DATABASE utpticketdbv;
 ```
 
 Luego completar las propiedades del perfil `dev` con las credenciales correctas y cargar los scripts necesarios si aplica.
