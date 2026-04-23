@@ -66,7 +66,7 @@ La API queda organizada para soportar módulos como los siguientes:
 ```text
 src/
   main/
-    java/com/pe/limon/api/
+    java/com/pe/utp-ticket/api/
       core/                 # configuración, seguridad, AOP y utilidades
       gateway/              # controladores HTTP por contexto
       transactions/         # lógica de negocio y acceso a datos
