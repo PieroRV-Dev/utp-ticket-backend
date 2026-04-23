@@ -132,7 +132,7 @@ La API necesita, como mínimo, configurar:
 Crear una base, por ejemplo:
 
 ```sql
-CREATE DATABASE limondbv2;
+CREATE DATABASE ticketdbv2;
 ```
 
 Luego completar las propiedades del perfil `dev` con las credenciales correctas y cargar los scripts necesarios si aplica.
@@ -161,8 +161,8 @@ Para forzar un perfil:
 
 Con la aplicación levantada, la documentación quedará disponible en:
 
-- `http://localhost:8080/api-limon/v1/swagger-ui.html`
-- `http://localhost:8080/api-limon/v1/api-docs`
+- `http://localhost:8080/api-ticket/v1/swagger-ui.html`
+- `http://localhost:8080/api-ticket/v1/api-docs`
 
 ## Flujo funcional que buscamos dejar cubierto
 
@@ -205,6 +205,6 @@ Al cerrar esta primera etapa, la API debe quedar como el backend principal de UT
 
 ## Nombre del artefacto
 
-- `groupId`: `com.pe.limon`
+- `groupId`: `com.pe.utp-ticket`
 - `artifactId`: `limonApi`
 - `version`: `0.0.1-BETA`
