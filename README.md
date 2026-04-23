@@ -206,5 +206,5 @@ Al cerrar esta primera etapa, la API debe quedar como el backend principal de UT
 ## Nombre del artefacto
 
 - `groupId`: `com.pe.utp-ticket`
-- `artifactId`: `limonApi`
+- `artifactId`: `utpTicketApi`
 - `version`: `0.0.1-BETA`
